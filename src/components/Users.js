@@ -50,6 +50,8 @@ class Users extends Component {
       </div>
     );
   }
+
+  // nothing
 }
 
 // const Users = () => {
